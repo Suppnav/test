@@ -1,0 +1,6 @@
+pip install numpy #установка библиотеки numpy
+pip freeze > requirements.txt #запись в файл requirements.txt всех версий библиотек
+pip install -r requirements.txt #переустановка с версиями всех библиотек
+
+conda env export > environment.yaml #сохранение настроек конды
+conda env create -f environment.yaml #восстановление настроек конды
