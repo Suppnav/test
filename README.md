@@ -4,8 +4,8 @@
  
  ## ПРОЕКТЫ
  
- * [Проект0](C:\Users\Suppnav\Desktop\DST\test_git\test\0 project)
- * [Проект1](C:\Users\Suppnav\Desktop\DST\test_git\test\1 project)
- * [Проект2](C:\Users\Suppnav\Desktop\DST\test_git\test\2 project) 
+ * [Проект 0 - Угадай число](https://github.com/Suppnav/test/tree/main/0%20project)
+ * [Проект1](https://github.com/Suppnav/test/tree/main/0%20project)
+ * [Проект2](https://github.com/Suppnav/test/tree/main/0%20project) 
  
  ## РЕЗЮМЕ
